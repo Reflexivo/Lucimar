@@ -3,4 +3,4 @@
 - 🌱 Sou professora de Pensamento computacional e faço cursos no Alura.
 - 💞️ Pretendo colaborar no que for possível.
 - 📫 Meu e-mail de contato é lucimar.martins@escola.pr.gov.br
-- !(JavaScritp) (https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![JavaScritp](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
