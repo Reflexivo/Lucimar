@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou **Reflexivo**.
+- 👋 Oi, sou **Reflexivo**.
 - 👀 Estou aprendendo as linguagens computacionais e estou interessado em aprender a usar o GitHub.
 - 🌱 Sou professora de Pensamento computacional, Biologia, Protagonismo, Estudo Orientado e faço cursos no Alura.
 - ### Trabalho no Colégio estadual padre Anchieta, Assis Chateaubriand, PR.
